@@ -1,7 +1,5 @@
 import streamlit as st
-import streamlit as st
 
-st.write("SECRET CHECK:", st.secrets)
 # Refer analysis.py file
 from analysis import analyze_resume
 
